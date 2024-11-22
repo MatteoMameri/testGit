@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Profile() {
   return (
     <View style={styles.container}>
-      <Text>llProfile gggPage</Text>
+      <Text>PROOOtttOOOFIL PAGE</Text>
     </View>
   );
 }
@@ -15,4 +15,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+ 
 });
+
+
