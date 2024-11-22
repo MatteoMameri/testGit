@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Text>Home PageGGG</Text>
+      <Text>Home PageggggGGG</Text>
     </View>
   );
 }
