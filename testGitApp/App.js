@@ -13,7 +13,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Tab.Navigator
-        initialRouteName="Home" // Page de départ
+        initialRouteName="Home" // Page de départfff
         screenOptions={({ route }) => ({
           headerShown: false, // Enlever l'entête par défaut
           tabBarIcon: ({ focused, color, size }) => {
